@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ronitkarkera1" target="blank"><img src="https://img.shields.io/twitter/follow/ronitkarkera1?logo=twitter&style=for-the-badge" alt="ronitkarkera1" /></a> </p>
 
-- 💬 Ask me about **Tools,OS,Networks.**
+- 💬 Ask me about **Tools,OS,Networks,Equity Markets.**
 
 - 📫 How to reach me **karkeraronit@gmail.com**
 
